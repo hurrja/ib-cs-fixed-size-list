@@ -5,9 +5,9 @@
 
 ** List construction
    For simplicity, the fixed-sized array holding the elements of the
-   list is passed to the constructor of the list. The maximum size of
-   the list is then simply the length of this array. See =main()= for
-   an example.
+   list is passed to the constructor of the list. /The values in this
+   array are ignored./ The maximum size of the list is then simply the
+   length of this array. See =main()= for an example.
 
 ** Installation in IDEA
    To install the application in IDEA, do the following:
