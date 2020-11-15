@@ -1,4 +1,4 @@
-public class List <T extends Comparable<T>>
+public class List <T>
 {
   public List (T[] array)
   {
@@ -15,7 +15,7 @@ public class List <T extends Comparable<T>>
   public boolean isEmpty ()
   {
     // code to be written
-    return false;
+    return true;
   }
 
   public void addFirst (T element)
@@ -31,7 +31,7 @@ public class List <T extends Comparable<T>>
     // code to be written
   }
 
-  public void add (int index)
+  public void add (int index, T element)
   {
     // code to be written
   }
