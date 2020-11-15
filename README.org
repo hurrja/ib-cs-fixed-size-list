@@ -1,6 +1,6 @@
 * Fixed size list
 ** The purpose of this repository
-   This repository contains the start of a class implemeting
+   This repository contains the start of a class implementing
    fixed-size lists.
 
 ** Installation in IDEA
