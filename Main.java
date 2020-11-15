@@ -2,10 +2,11 @@ public class Main
 {
   public static void main(String[] args)
   {
-    List<Integer> list = new List<> (new Integer[10]);
+    List<Integer> list = new List<> (new Integer[5]);
 
     for (int i = 1; !list.isFull () && i < 100; i += 2)
       list.addFirst (i);
+    System.out.println (list);
 
     list.removeLast ();
     list.removeLast ();
