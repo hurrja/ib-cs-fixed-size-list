@@ -20,6 +20,6 @@ public class Main
     // implement methods so that you can uncomment this code
     // while (!list.isEmpty ())
     //   System.out.print (list.removeFirst () + " ");
-           
+    System.out.println ("");
   }
 }
